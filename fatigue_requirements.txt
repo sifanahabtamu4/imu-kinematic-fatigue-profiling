@@ -1,0 +1,11 @@
+# Versions used for the published run. TensorFlow and tslearn pinned, since
+# results are sensitive to them. Run on CPU; no GPU required.
+numpy==1.26.4
+pandas>=2.0
+scipy==1.17.1
+scikit-learn==1.8.0
+tslearn==0.8.1
+tensorflow==2.21.0
+matplotlib>=3.7
+seaborn>=0.12
+jupyter>=1.0
