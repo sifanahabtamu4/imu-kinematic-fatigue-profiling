@@ -1,0 +1,24 @@
+# Data — participant recordings under informed consent, not redistributable
+data/
+*.csv
+
+# Generated figures
+figures/
+
+# Saved models / checkpoints
+*.h5
+*.keras
+checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
